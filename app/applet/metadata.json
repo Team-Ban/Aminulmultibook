@@ -1,0 +1,6 @@
+{
+  "name": "Aminul MultiBook",
+  "description": "A multi-account browser shell for accessing multiple sessions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
